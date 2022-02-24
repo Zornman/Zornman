@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zornman
 - 👀 I’m interested in .NET, C#, Blazor, Angular, etc.
-- 🌱 I’m currently learning Blazor by writing a crypto auto trader
-- 💞️ I’m looking to collaborate on Blazor work
+- 🌱 I’m currently learning Solidity while taking Microsoft courses
+- 💞️ I’m looking to collaborate on Solidity work
 - 📫 How to reach me zornman45@gmail.com
 
 <!---
